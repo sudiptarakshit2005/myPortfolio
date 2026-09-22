@@ -2,7 +2,7 @@
 
 ## 🌐 VISIT MY WEBSITE
 
-👉 [**CLICK HERE TO OPEN MY PORTFOLIO**]([https://your-netlify-link.netlify.app](https://sudiptarakshitportfolioo.netlify.app/))
+👉 [**[CLICK HERE TO OPEN MY PORTFOLIO](https://sudiptarakshitportfolioo.netlify.app/)**]
 
 ---
 
